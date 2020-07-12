@@ -1,1 +1,5 @@
-// Write your code here!
+// Write your code here!\
+ document.getElementById("main").remove()
+let newHeader = document.createElement('h1')
+ newHeader.id = "victory"
+ newHeader.innerHTML = "Zara is the champion"
